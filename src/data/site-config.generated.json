@@ -1,0 +1,29 @@
+{
+  "url": "https://startup-launches.publume.dev/",
+  "name": "Startup Launch Brief",
+  "description": "A concise bilingual daily briefing on noteworthy startup and product launches for founders, operators, and early adopters.",
+  "tagline": "A daily signal check on useful new products.",
+  "locale": "en",
+  "outputLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "defaultContentLanguage": "en",
+  "publisherName": "Publume Launch Desk",
+  "authorName": "Startup Launch Brief",
+  "contactUrl": "",
+  "aiDisclosure": "",
+  "socialImageUrl": "",
+  "newsletterUrl": "",
+  "sponsorUrl": "",
+  "showTopics": true,
+  "showScore": false,
+  "showSources": true,
+  "footerText": "",
+  "presentation": {
+    "schemaVersion": 1,
+    "ads": {
+      "provider": "none"
+    }
+  }
+}
